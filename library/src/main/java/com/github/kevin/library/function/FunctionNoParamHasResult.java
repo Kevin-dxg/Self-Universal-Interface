@@ -1,4 +1,4 @@
-package com.github.kevin.universal_interface.function;
+package com.github.kevin.library.function;
 
 public abstract class FunctionNoParamHasResult<T> extends Function{
 

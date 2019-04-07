@@ -6,14 +6,14 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
+import com.github.kevin.library.FunctionManager;
+import com.github.kevin.library.function.FunctionHasParamHasResult;
+import com.github.kevin.library.function.FunctionHasParamNoResult;
 import com.github.kevin.universal_interface.adapter.MyAdapter;
 import com.github.kevin.universal_interface.bean.User;
 import com.github.kevin.universal_interface.fragment.FragmentOne;
 import com.github.kevin.universal_interface.fragment.FragmentThree;
 import com.github.kevin.universal_interface.fragment.FragmentTwo;
-import com.github.kevin.universal_interface.function.FunctionHasParamHasResult;
-import com.github.kevin.universal_interface.function.FunctionHasParamNoResult;
-import com.github.kevin.universal_interface.function.FunctionManager;
 
 import java.util.ArrayList;
 import java.util.List;

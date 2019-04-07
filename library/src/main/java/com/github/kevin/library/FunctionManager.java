@@ -1,8 +1,11 @@
-package com.github.kevin.universal_interface.function;
+package com.github.kevin.library;
 
 import android.text.TextUtils;
 
-import com.github.kevin.universal_interface.bean.User;
+import com.github.kevin.library.function.FunctionHasParamHasResult;
+import com.github.kevin.library.function.FunctionHasParamNoResult;
+import com.github.kevin.library.function.FunctionNoParamHasResult;
+import com.github.kevin.library.function.FunctionNoParamNoResult;
 
 import java.util.HashMap;
 import java.util.Map;

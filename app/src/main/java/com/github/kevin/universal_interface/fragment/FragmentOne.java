@@ -9,10 +9,10 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.github.kevin.library.FunctionManager;
 import com.github.kevin.universal_interface.R;
-import com.github.kevin.universal_interface.function.FunctionManager;
-import com.github.kevin.universal_interface.function.FunctionNoParamHasResult;
-import com.github.kevin.universal_interface.function.FunctionNoParamNoResult;
+import com.github.kevin.library.function.FunctionNoParamHasResult;
+import com.github.kevin.library.function.FunctionNoParamNoResult;
 
 public class FragmentOne extends Fragment {
 

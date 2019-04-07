@@ -9,9 +9,9 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
+import com.github.kevin.library.FunctionManager;
 import com.github.kevin.universal_interface.R;
 import com.github.kevin.universal_interface.bean.User;
-import com.github.kevin.universal_interface.function.FunctionManager;
 
 public class FragmentThree extends Fragment {
 
